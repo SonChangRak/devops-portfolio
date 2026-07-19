@@ -6,15 +6,6 @@ Thumbs.db
 *.swp
 *.swo
 
-# Local AI / assistant instructions and work logs
-.codex/
-.agents/
-AGENTS.md
-CLAUDE.md
-STATUS.md
-TASKS.md
-*_FACT_CHECK.md
-
 # Drafts and temporary output
 drafts/
 private/
@@ -49,4 +40,3 @@ assets/raw/
 *.pfx
 credentials*
 secrets*
-
