@@ -1,0 +1,52 @@
+# macOS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local AI / assistant instructions and work logs
+.codex/
+.agents/
+AGENTS.md
+CLAUDE.md
+STATUS.md
+TASKS.md
+*_FACT_CHECK.md
+
+# Drafts and temporary output
+drafts/
+private/
+tmp/
+temp/
+*.tmp
+*.bak
+*~
+
+# Source resumes and exported documents
+*.pdf
+*.doc
+*.docx
+*.pages
+*.ppt
+*.pptx
+
+# Original or unreviewed media
+assets/original/
+assets/private/
+assets/raw/
+*_original.*
+*_unredacted.*
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+
